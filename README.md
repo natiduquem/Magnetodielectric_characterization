@@ -1,7 +1,8 @@
 # Magnetodielectric Materials Characterization using Artificial Neural Network
 This repository contains the dataset and the notebook used to train an ANN to retrieve the permittivity and permeability of a magnetodielectric material. The training data were obtained from the analysis of the SRR sensor’s frequency response.
 
-Autors: 
+### Autors: 
+
 G. Álvarez-Botero*, N. Duque-Madrid*, H. Lobato-Morales**, G. Méndez-Jerónimo**, K. Hui3, N. Tarabay***, A. Pons-Abenza*, I. Arregui*, T. Lopetegi*, M. A. G. Laso*, C. Velez***
 
 *Institute of Smart Cities (ISC), Department of Electrical, Electronic and Communications Engineering, Public University of Navarre (UPNA), Campus Arrosadia, 31006 Pamplona, España.
@@ -22,15 +23,12 @@ The dataset has been generated through full-wave electromagnetic simulations in 
 
 #### Permeability Features:
 
-'fr_μ': Resonance frecuency
-
-'Γ_μ': Minimum reflection coefficient
-
-'Loss_μ': Losses
-
-'Bw_μ': Bandwidth
+* 'fr_μ': Resonance frecuency
+* 'Γ_μ': Minimum reflection coefficient
+* 'Loss_μ': Losses
+* 'Bw_μ': Bandwidth
 #### Target Variables:
-'Permittivity_μr'
-'Permeability_εr'
-'tanδε'
-'tanδμ'
+* 'Permittivity_μr'
+* 'Permeability_εr'
+* 'tanδε'
+* 'tanδμ'
