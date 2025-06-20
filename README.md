@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.png" alt="Header" />
+  <img src="img/header.PNG" alt="Header" />
 </p>
 
 This repository contains the dataset and the notebook used to train an ANN to retrieve the permittivity and permeability of a magnetodielectric material. The training data were obtained from the analysis of the SRR sensor’s frequency response.
