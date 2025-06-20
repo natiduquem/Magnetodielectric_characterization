@@ -1,4 +1,4 @@
-![Logos](img/header.png)
+
 # Magnetodielectric Materials Characterization using an Artificial Neural Network
 This repository contains the dataset and the notebook used to train an ANN to retrieve the permittivity and permeability of a magnetodielectric material. The training data were obtained from the analysis of the SRR sensor’s frequency response.
 
