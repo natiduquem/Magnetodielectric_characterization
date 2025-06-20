@@ -32,3 +32,7 @@ The dataset has been generated through full-wave electromagnetic simulations in 
 * 'Permeability_εr'
 * 'tanδε'
 * 'tanδμ'
+
+#### If you use these resources, please cite:
+
+(Insert Reference here)
