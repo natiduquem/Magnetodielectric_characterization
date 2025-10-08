@@ -2,7 +2,7 @@
   <img src="img/header.PNG" alt="Header" />
 </p>
 
-This repository contains the dataset and the notebook used to train an ANN to retrieve the permittivity and permeability of a magnetodielectric material. The training data were obtained from the analysis of the SRR sensor’s frequency response.
+This repository contains the dataset and the notebook used to train an ANN to retrieve the permittivity and permeability of a magnetodielectric material. The training data were obtained from the analysis of the SRR sensor’s frequency response. The full results are published in the paper "Enhancing magneto‐dielectric material characterization by integrating SRR sensor, de‐embedding procedure, and artificial neural network modeling. Radio Science, 60".
 
 ### Autors: 
 G. Álvarez-Botero<sup>1</sup>, N. Duque-Madrid<sup>1</sup>, H. Lobato-Morales<sup>2</sup>, G. Méndez-Jerónimo<sup>2</sup>, K. Hui<sup>3</sup>, N. Tarabay<sup>3</sup>, A. Pons-Abenza<sup>1</sup>, I. Arregui<sup>1</sup>, T. Lopetegi<sup>1</sup>, M. A. G. Laso<sup>1</sup>, C. Velez<sup>3</sup>
