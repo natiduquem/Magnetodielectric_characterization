@@ -12,4 +12,4 @@ G. Álvarez-Botero<sup>1</sup>, N. Duque-Madrid<sup>1</sup>, H. Lobato-Morales<s
 <sup>3</sup> Mechanical and Aerospace Engineering Department, Magnetic Microsystems and Microrobotics Laboratory, University of California, Irvine, CA 92697, USA.
 ## If you use these resources, please cite:
 
-Álvarez‐Botero, G., Duque‐Madrid, N., Lobato‐Morales, H., Méndez‐Jerónimo, G., Hui, K., Tarabay, N., et al. (2025). Enhancing magneto‐dielectric material characterization by integrating SRR sensor, de‐embedding procedure, and artificial neural network modeling. Radio Science, 60, e2024RS008214.
+Álvarez‐Botero, G., Duque‐Madrid, N., Lobato‐Morales, H., Méndez‐Jerónimo, G., Hui, K., Tarabay, N., et al. (2025). Enhancing magneto‐dielectric material characterization by integrating SRR sensor, de‐embedding procedure, and artificial neural network modeling. Radio Science, 60, e2024RS008214. http://dx.doi.org/10.1029/2024RS008214
